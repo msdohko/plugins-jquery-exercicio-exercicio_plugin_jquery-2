@@ -14,4 +14,4 @@
     * requerido => required
     * mascara => mask
 - Organizado os comandos, separado JQuery de HTML.
-- Feito commits no codigo para orientação.
+- Feito commits no código para orientação.
